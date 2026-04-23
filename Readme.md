@@ -19,6 +19,7 @@ This repository contains documentation for Docker and web development setup guid
 - [Installation Commands/ExpressJS.md](Installation%20Commands/ExpressJS.md): Express.js setup and commands.
 - [Installation Commands/MongoDB.md](Installation%20Commands/MongoDB.md): MongoDB setup and commands.
 - [Installation Commands/PostgreSQL.md](Installation%20Commands/PostgreSQL.md): PostgreSQL setup and commands.
+- [Installation Commands/Tailwind.md](Installation%20Commands/Tailwind.md): Tailwind CSS setup and commands.
 
 ## How To Use This Repo
 1. Start with the Docker guide if you are new to Docker.
